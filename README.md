@@ -15,3 +15,7 @@ The R script, `run_analysis.R`, does the following:
    variable for each subject and activity pair.
 
 The end result is shown in the file `tidy.txt`.
+
+The code submitted is self explainatory and can be used for several different applications.
+
+The variables are temporary and can be given different names as well.
